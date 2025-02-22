@@ -1,4 +1,5 @@
 Description
+
 This project implements a modification of UV coordinates, where the amplitude of the sine wave increases as the UV grows. 
 This creates a dynamic distortion effect for working with shaders.
 
